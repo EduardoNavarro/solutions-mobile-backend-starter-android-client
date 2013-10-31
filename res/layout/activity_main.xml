@@ -54,4 +54,11 @@
         </LinearLayout>
     </ScrollView>
 
+    <ProgressBar
+        android:id="@+id/progressLoading"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/btSend" />
+
 </RelativeLayout>

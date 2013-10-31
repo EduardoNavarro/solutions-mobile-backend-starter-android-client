@@ -23,17 +23,17 @@ public interface Consts {
   /**
    * Set Project ID of your Google APIs Console Project.
    */
-  public static final String PROJECT_ID = "*** ENTER YOUR PROJECT ID ***";
+  public static final String PROJECT_ID = "cloud-android-test";
 
   /**
    * Set Project Number of your Google APIs Console Project.
    */
-  public static final String PROJECT_NUMBER = "*** ENTER YOUR PROJECT NUMBER ***";
+  public static final String PROJECT_NUMBER = "890170971276";
 
   /**
    * Set your Web Client ID for authentication at backend.
    */
-  public static final String WEB_CLIENT_ID = "*** ENTER YOUR WEB CLIENT ID ***";
+  public static final String WEB_CLIENT_ID = "AIzaSyAuqSmZnWBJb49_PYacDJO65UMIbndrrio";
 
   /**
    * Set default user authentication enabled or disabled.
